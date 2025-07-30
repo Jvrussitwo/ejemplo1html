@@ -1,0 +1,25 @@
+<!--etiqueta doctype-->
+<!DOCTYPE html>
+<!--etiqueta html-->
+<html lang="en">
+    <!--etiqueta head-->
+    <head>
+        <!--etiqueta meta para caracteres de teclado y configuracion predeterminada pantalla-->
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+       <!--etiqueta title"one"-->
+        <title>inicioone</title>
+        <!--etiqueta estilo-->
+      <style>
+        body{
+            background-color: #E9F7CA;
+        }
+      </style>
+    </head>
+    <!--etiqueta body-->
+    <body>
+    <p>
+        pruebas
+    </p>
+    </body>
+</html>
